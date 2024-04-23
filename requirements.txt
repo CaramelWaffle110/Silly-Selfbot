@@ -1,0 +1,9 @@
+requests
+discord.py==1.7.3
+winotify
+colorama
+pystyle
+websocket-client
+flask
+gevent
+cryptography
